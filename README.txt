@@ -1,6 +1,11 @@
 
 Presentation of the scopeornot library
 
+NOTICE
+
+  This presentation has moved to:
+  https://github.com/eric-brechemier/scopeornot/tree/master/doc
+
 LANGUAGES
 
   OpenDocument Presentation
@@ -38,4 +43,5 @@ COPYRIGHT
 HISTORY
 
   2011-12-21, First version presented at ParisJS on December 21st, 2011
+  2014-06-30, Merged with https://github.com/eric-brechemier/scopeornot/
 
